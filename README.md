@@ -1,2 +1,2 @@
 # AI-dog
-  ai dog taught to walk using reinforcment learning in Unity
+  ai dog taught to walk using deep reinforcment learning in Unity
